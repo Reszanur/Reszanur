@@ -1,4 +1,4 @@
-# Halo, Saya Resza Nur Nopebrianti! 👋 
+# Halo, Saya Resza! 👋 
 
 ![Profil Dilihat](https://komarev.com)
 
