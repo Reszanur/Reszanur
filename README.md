@@ -12,7 +12,7 @@ Saya sedang dalam perjalanan belajar pemrograman (Self-taught Developer). Fokus 
 ![MySQL](https://shields.io)
 
 ### 📁 Proyek Latihan:
-- 🏥 *[SipadiApp](https://github.com)*: Sistem Pakar Hipertensi (Dempster-Shafer).
+- 🏥 *[SipadihApp](https://github.com)*: Sistem Pakar Hipertensi (Dempster-Shafer).
 
 --- 
 “Coding itu susah, tapi seru kalo udah ketemu errornya!” 💻✨
