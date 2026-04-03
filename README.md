@@ -2,7 +2,7 @@
 
 ![Profil Dilihat](https://komarev.com)
 
-Saya sedang dalam perjalanan belajar pemrograman (*Self-taught Developer). Fokus saya saat ini adalah memahami logika pemrograman dan membangun proyek-proyek kecil untuk mengasah *skill. 
+Saya sedang dalam perjalanan belajar pemrograman (Self-taught Developer). Fokus saya saat ini adalah memahami logika pemrograman dan membangun proyek-proyek kecil untuk mengasah skill. 
 
 ### 🛠️ Teknologi yang Sedang Dipelajari:
 ![HTML5](https://shields.io)
