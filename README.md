@@ -1,16 +1,21 @@
-## Hi there 👋
+# Halo, Saya Resza Nur Nopebrianti! 👋 
 
-<!--
-**Reszanur/Reszanur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com" alt="Rezzanur" />
+</p>
 
-Here are some ideas to get you started:
+Saya sedang dalam perjalanan belajar pemrograman (*Self-taught Developer). Fokus saya saat ini adalah memahami logika pemrograman dan membangun proyek-proyek kecil untuk mengasah *skill. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknologi yang Sedang Dipelajari:
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![PHP](https://shields.io)
+![MySQL](https://shields.io)
+
+### 📁 Proyek Latihan:
+- 🏥 *[SipadiApp](https://github.com)*: Sistem Pakar Hipertensi (Dempster-Shafer).
+- 🚀 *[Project Baru](https://github.com)*: Deskripsi singkat proyek baru kamu.
+
+--- 
+“Coding itu susah, tapi seru kalau sudah ketemu error-nya!” 💻✨
