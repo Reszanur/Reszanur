@@ -4,7 +4,7 @@
   <img src="https://komarev.com" alt="Rezzanur" />
 </p>
 
-Saya sedang dalam perjalanan belajar pemrograman (*Self-taught Developer). Fokus saya saat ini adalah memahami logika pemrograman dan membangun proyek-proyek kecil untuk mengasah *skill. 
+Saya sedang dalam perjalanan belajar pemrograman (Self-taught Developer). Fokus saya saat ini adalah memahami logika pemrograman dan membangun proyek-proyek kecil untuk mengasah skill. 
 
 ### 🛠️ Teknologi yang Sedang Dipelajari:
 ![HTML5](https://shields.io)
@@ -15,7 +15,6 @@ Saya sedang dalam perjalanan belajar pemrograman (*Self-taught Developer). Fokus
 
 ### 📁 Proyek Latihan:
 - 🏥 *[SipadiApp](https://github.com)*: Sistem Pakar Hipertensi (Dempster-Shafer).
-- 🚀 *[Project Baru](https://github.com)*: Deskripsi singkat proyek baru kamu.
 
 --- 
 “Coding itu susah, tapi seru kalau udah ketemu error-nya!” 💻✨
