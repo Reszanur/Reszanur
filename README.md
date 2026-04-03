@@ -15,4 +15,4 @@ Saya sedang dalam perjalanan belajar pemrograman (Self-taught Developer). Fokus 
 - 🏥 *[SipadihApp](https://github.com)*: Sistem Pakar Hipertensi (Dempster-Shafer).
 
 --- 
-“Coding itu susah, tapi seru kalo udah ketemu errornya!” 💻✨
+“Coding itu susah, tapi seru kalo udah ketemu errornya!”
