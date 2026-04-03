@@ -18,4 +18,4 @@ Saya sedang dalam perjalanan belajar pemrograman (*Self-taught Developer). Fokus
 - 🚀 *[Project Baru](https://github.com)*: Deskripsi singkat proyek baru kamu.
 
 --- 
-“Coding itu susah, tapi seru kalau sudah ketemu error-nya!” 💻✨
+“Coding itu susah, tapi seru kalau udah ketemu error-nya!” 💻✨
